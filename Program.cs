@@ -10,7 +10,7 @@ namespace LINQ_in_Manhattan
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, welcome to my application!");
-            Neighborhood.ReadInfo("Neighborhoods.json");
+            Neighborhood.ReadInfo("./Neighborhoods.json");
         }
     }
 }
