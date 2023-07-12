@@ -6,6 +6,58 @@ The program reads the JSON data, performs various queries and transformations us
  
 # Visuals:
 As the code runs, it displays the neighborhoods based on different queries, along with the final total count of neighborhoods, to the console.
+                     
+                    All Neighborhoods:
+                    Chelsea
+                    Lower East Side
+                    Gramercy Park
+                    Financial District
+                    ...
+                   Final Total: 147 neighborhoods
+                   ______________________________________________________________________________________________
+                   All The Named Neighborhoods:
+                   Chelsea
+                   Lower East Side
+                   Gramercy Park
+                   Financial District
+                   ...
+                   Final Total: 143 Named neighborhoods
+                   ________________________________________________________________________________________________
+                   Non Duplicated Neighborhoods :
+                   Chelsea
+                   Lower East Side
+                   Gramercy Park
+                   Financial District
+                   ...
+                   Final Total: 39 Non duplicated neighborhoods
+                   ________________________________________________________________________________________________
+                   Rewrite the queries from above and consolidate all into one single query
+                   Chelsea
+                   Lower East Side
+                   Gramercy Park
+                   Financial District
+                    ...
+                   Final Total: 39 Non duplicated neighborhoods
+                   ________________________________________________________________________________________________
+                   ________________________________________________________________________________________________
+                   Rewrite  one of these questions  using the LINQ Query  syntax 1
+                   Chelsea
+                   Lower East Side
+                   Gramercy Park
+                   Financial District
+                    ...
+                   Final Total: 147 neighborhoods
+                   ______________________________________________________________________________
+                   ________________________________________________________________________________________________
+                   Rewrite  one of these questions  using the LINQ Query  syntax 2
+                   Non Duplicated Neighborhoods :
+                   Chelsea
+                   Lower East Side
+                   Gramercy Park
+                   Financial District
+                   ...
+                   Final Total: 39 Non duplicated neighborhoods
+
 # Usage
 To use the programm do the following : 
 - Make sure that you have the necessary prerequisites:
