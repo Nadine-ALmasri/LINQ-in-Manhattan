@@ -6,7 +6,11 @@ The program reads the JSON data, performs various queries and transformations us
  
 # Visuals:
 As the code runs, it displays the neighborhoods based on different queries, along with the final total count of neighborhoods, to the console.
-                     
+                    
+       
+
+
+
                     All Neighborhoods:
                     Chelsea
                     Lower East Side
@@ -58,6 +62,16 @@ As the code runs, it displays the neighborhoods based on different queries, alon
                    ...
                    Final Total: 39 Non duplicated neighborhoods
 
+
+
+
+
+![](first.PNG)
+![](second.PNG)
+![](third.PNG)
+![](fourth.PNG)
+![](fifth.PNG)
+![](sixth.PNG)
 # Usage
 To use the programm do the following : 
 - Make sure that you have the necessary prerequisites:
